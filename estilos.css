@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+}
+
+h1 {
+    color: darkred;
+    font-family: Verdana;
+}
+
+h2 {
+    color: darkblue;
+    font-family: Arial;
+}
+
+p {
+    color: black;
+    font-family: Arial;
+}
+
+.destaque {
+    background-color: lightblue;
+    margin: 20px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
