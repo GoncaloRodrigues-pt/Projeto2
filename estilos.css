@@ -28,3 +28,15 @@ img {
     width: 400px;
     height: auto;
 }
+
+ Desafio Técnico:
+
+A parte que exigiu mais atenção foi a criação da classe .destaque no CSS e a sua aplicação no parágrafo do HTML. Consegui fazê-lo criando a classe no ficheiro CSS, definindo uma cor de fundo e uma margem, e depois associando-a ao parágrafo através do atributo class.
+
+ Correção de Sintaxe:
+
+Um dos erros mais comuns que cometi foi escrever front-family em vez de font-family, ao definir o tipo de letra no CSS. Também escrevi lighygray em vez de lightgray ao escolher a cor de fundo. Consegui identificar e corrigir estes erros durante os testes.
+
+ Autoria:
+
+O atributo href serve para indicar o endereço para onde uma hiperligação deve encaminhar o utilizador. No meu trabalho, utilizei-o para criar uma ligação para o site oficial do UFC 4, permitindo que quem visita a minha página possa clicar no texto e aceder diretamente a esse site.
